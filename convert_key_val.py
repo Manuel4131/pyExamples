@@ -2,7 +2,7 @@
 #-*- coding:utf-8 -*-
 
 f = open('data','r')
-f2 = open('ss','w')
+f2 = open('convertedData','w')
 l = f.readline()
 
 while l:
